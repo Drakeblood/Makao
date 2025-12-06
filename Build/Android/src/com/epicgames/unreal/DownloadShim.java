@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.Makao.OBBDownloaderService;
-import com.YourCompany.Makao.DownloaderActivity;
+import com.Hexateam.Makao.OBBDownloaderService;
+import com.Hexateam.Makao.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.Makao.OBBData;
+import com.Hexateam.Makao.OBBData;
 
 
 public class DownloadShim

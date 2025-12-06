@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.Makao;
+package com.Hexateam.Makao;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.YourCompany.Makao.AlarmReceiver.class.getName();
+        return com.Hexateam.Makao.AlarmReceiver.class.getName();
     }
 }

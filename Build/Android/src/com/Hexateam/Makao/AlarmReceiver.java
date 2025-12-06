@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.Makao;
+package com.Hexateam.Makao;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
